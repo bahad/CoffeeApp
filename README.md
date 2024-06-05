@@ -10,3 +10,4 @@ Coffee App
 * Test için mockito kullanılmıştır.
 * Clean architecture, state management için getx kullanılmıştır.
 * Basit animasyonlar eklenmiştir.
+* Projenin derlenmesi için flutter clean, flutter packages get, flutter run komutları yazılmalıdır. Test klasörlerinde hata verilirse silinip derlenebilir.
